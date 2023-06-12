@@ -1,0 +1,9 @@
+#first time 
+git init 
+git status
+git add .
+
+#first time
+git config --global user.name "manasviag "
+git config --global user.email "kamlaoil@gmail.com "
+git commit -m "your message"
